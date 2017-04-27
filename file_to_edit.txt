@@ -2,4 +2,4 @@ file commit
 
 Some random text before second commit and push
 
-
+This will cause a problem as the file was edited and pushed on master
