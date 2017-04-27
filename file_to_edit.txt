@@ -2,4 +2,6 @@ file commit
 
 Some random text before second commit and push
 
+After the first branch work this is the master file.
 
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&7
